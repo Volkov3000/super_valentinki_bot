@@ -1,0 +1,25 @@
+{
+	"product_id": 74,
+	"version_id": 66,
+	"version": "1.0.0",
+	"buyer_id": 11,
+	"watermark_id": "wm_11_66_e700ce69-68ba-4d2a-b6d3-422c9c8b0615",
+	"generated_at_utc": "2026-05-26T11:59:07.378095088Z",
+	"files": [
+		{
+			"path": "\ufffdத\ufffd\ufffd\ufffd/__pycache__/settings.cpython-310.pyc",
+			"sha256": "a39a7814c791be06d1a40d16da6097eab04cfe6805c8c816f164dd88f829682a",
+			"size": 373
+		},
+		{
+			"path": "\ufffdத\ufffd\ufffd\ufffd/main.py",
+			"sha256": "e917c136c8771709aeb51b92ed41325c85cf1af827ba6f973c94349901757591",
+			"size": 25332
+		},
+		{
+			"path": "\ufffdத\ufffd\ufffd\ufffd/settings.py",
+			"sha256": "58acbf684d9bca77007d9ae89fbb4bfbc291b0ab4322fd60c2e98534f6fbd28d",
+			"size": 299
+		}
+	]
+}

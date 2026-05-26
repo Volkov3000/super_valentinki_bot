@@ -1,0 +1,11 @@
+LICENSE NOTICE
+==============
+ProductID: 74
+VersionID: 66
+Version: 1.0.0
+BuyerID: 11
+WatermarkID: wm_11_66_e700ce69-68ba-4d2a-b6d3-422c9c8b0615
+
+This archive is personalized for the buyer above.
+Redistribution is prohibited. In case of leak, watermark identifies the source.
+
